@@ -9,7 +9,7 @@
 - 📖 Collaborated with **TechFactors, Inc.** in designing educational infographics for book development projects
 - 💻 I use daily: `.ai`, `.psd`, `.png`, `.jpg`, `.html`, `.css`, `.js`
 - 🎨 Member of: **Vector X Vexel Philippines, Graphic Artist Philippines, Design Fugitive**
-- 🌱 Learning more about and studying: **Responsive Web Design, JavaScript Algorithms and Data Structures**
+- 🌱 Learning more about **Responsive Web Design, JavaScript Algorithms and Data Structures**
 - 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**
 - 💜 Interests: digital art, good food, documentaries, podcasts, cats, Owl City, IU, Ben&Ben, UDD 
 - 😄 Passionate about vector illustration, photo manipulation, and web development

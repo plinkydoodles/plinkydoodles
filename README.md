@@ -17,7 +17,6 @@
 #### Find me around the web 🌎:
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/plinkysumagyap/">LinkedIn</a>
 - 🌐 Updating my personal portfolio with examples of my work on <a href="https://www.behance.net/plinkysumagyap">Behance</a> and <a href="https://plinkydoodles.github.io">plinkydoodles.github.io</a>
-- 🐦 Tweeting about art, memes, and sharing tech tweets on <a href="https://twitter.com/plinkydoodles/">Twitter</a>
 - 📷 My art and work in progress on <a href="https://www.instagram.com/plinkydoodles">Instagram</a>
 - 📫 Contact me directly at plinkysumagyap@gmail.com
 

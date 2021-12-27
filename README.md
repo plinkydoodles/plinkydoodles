@@ -7,7 +7,7 @@
 
 - 😎 Currently learning new things and exploring creative design for print and the web.
 - 📖 Collaborated with **TechFactors, Inc.** in designing educational infographics for book development projects
-- 💻 I use daily: `.ai`, `.psd`, `.png`, `.jpg`, `.html`, `.css`
+- 💻 I use daily: `.ai`, `.psd`, `.png`, `.jpg`, `.html`, `.css`, `.js`
 - 🎨 Member of: **Vector X Vexel Philippines, Graphic Artist Philippines, Design Fugitive**
 - 🌱 Learning more about and studying: **Responsive Web Design, JavaScript Algorithms and Data Structures**
 - 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**

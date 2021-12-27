@@ -18,7 +18,7 @@
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/plinkysumagyap/">LinkedIn</a>
 - 🌐 Personal Portfolio: <a href="https://www.behance.net/plinkysumagyap">Behance</a> and <a href="https://plinkydoodles.github.io">plinkydoodles.github.io</a>
 - 📷 My art and work in progress on <a href="https://www.instagram.com/plinkydoodles">Instagram</a>
-- 📫 Contact me directly at plinkysumagyap@gmail.com
+- 📫 Email: plinkysumagyap@gmail.com
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=plinkydoodles&show_icons=true)
 

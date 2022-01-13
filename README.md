@@ -7,7 +7,7 @@
 
 - 😎 Currently learning new things and exploring creative design for print and the web.
 - 📖 Collaborated with **TechFactors, Inc.** in designing educational infographics for book development projects
-- 😄 Passionate about vector illustration, photo manipulation, and web development
+- 🖐 Passionate about vector illustration, photo manipulation, and web development
 - 🌱 Learning more about **Responsive Web Design, JavaScript Algorithms and Data Structures**
 - 💻 Tools of the Trade: Adobe Illustrator, Photoshop, InDesign, Premiere Pro, Canva
 - 🎨 Member of: **Vector X Vexel Philippines, Graphic Artist Philippines, Design Fugitive**

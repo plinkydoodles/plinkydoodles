@@ -20,12 +20,12 @@
 - 📷 My art and work in progress on <a href="https://www.instagram.com/plinkydoodles">Instagram</a>
 - 📫 Email: plinkysumagyap@gmail.com
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=plinkydoodles&show_icons=true)
+![My github stats](https://github-readme-stats.vercel.app/api?username=plinkysumagyap&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plinkydoodles)](https://github.com/plinkydoodles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plinkysumagyap)](https://github.com/plinkydoodles/github-readme-stats)
 
 <!--
-**plinkydoodles/plinkydoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**plinkysumagyap/plinkysumagyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

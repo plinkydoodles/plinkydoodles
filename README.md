@@ -6,11 +6,9 @@
 #### I'm a freelance graphic artist based in the Philippines.
 
 - 😎 Currently learning new things and exploring creative design for print and the web.
-- 📖 Collaborated with **TechFactors, Inc.** in designing educational infographics for book development projects
 - 💻 Passionate about vector illustration, photo manipulation, and web development
 - 🌱 Learning more about **Responsive Web Design, JavaScript Algorithms and Data Structures**
 - 🎨 `.ai`, `.psd`, `.indd`, `.png`, `.jpg`, `.pdf`, `.html`, `.css`, `.js`, `.php`, `.sql`
-- 🖐 Member of **Vector X Vexel Philippines, Graphic Artist Philippines, Design Fugitive**
 - 💜 Interests: digital art, good food, documentaries, podcasts, cats, Owl City, IU, Ben&Ben, UDD 
 - 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**
 

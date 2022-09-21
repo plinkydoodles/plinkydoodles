@@ -15,8 +15,7 @@
 - 💬 Ping me about: **web design**, **social media**, **diversity & inclusion**
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/plinkysumagyap/">LinkedIn</a>
-- 🌐 Personal Portfolio: <a href="https://www.behance.net/plinkysumagyap">Behance</a> and <a href="https://plinkysumagyap.github.io">plinkysumagyap.github.io</a>
+- 🌐 Personal Portfolio: <a href="https://www.behance.net/plinkysumagyap">behance.net/plinkysumagyap</a> and <a href="https://plinkysumagyap.github.io">plinkysumagyap.github.io</a>- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/plinkysumagyap/">LinkedIn</a>
 - 📷 My art and work in progress on <a href="https://www.instagram.com/plinkydoodles">Instagram</a>
 - 📫 Email: plinkysumagyap@gmail.com
 

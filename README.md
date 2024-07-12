@@ -1,9 +1,7 @@
 ### Hi, I'm Plinky 👋
 ---
 
-<!-- I'm Plinky Sumagyap, a freelance graphic artist focusing on vector illustration and exploring creative design for print and the web. I also design educational infographics for book development projects in collaboration with TechFactors Inc.-->
-
-#### I'm a freelance graphic artist based in the Philippines.
+<!-- I'm Plinky Sumagyap, a  graphic artist focusing on vector illustration and exploring creative design for print and the web.-->
 
 - 😎 Currently learning new things and exploring creative design for print and the web.
 - 💻 Passionate about vector illustration, photo manipulation, and web development
